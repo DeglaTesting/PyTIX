@@ -17,7 +17,7 @@ PyTIX can either use:
 * the [mote](https://github.com/pimoroni/mote) library to display the time. (Requires [Pimoroni Mote](https://shop.pimoroni.com/products/mote) hardware.)
 * the [Scroll pHAT](https://github.com/pimoroni/scroll-phat) library to display the time. (Requires [Pimoroni Scroll pHAT](https://shop.pimoroni.com/products/scroll-phat) hardware.)
 * the [Unicorn HAT](https://github.com/pimoroni/unicorn-hat) library to display the time. (Requires [Pimoroni Scroll pHAT](https://shop.pimoroni.com/products/unicorn-hat) hardware.)
-* the [Sense HAT](https://www.raspberrypi.org/documentation/hardware/sense-hat/) library to display the time. (Requires [Raspberry Pi Fondation Sense HAT](https://www.raspberrypi.org/products/sense-hat/) hardware.)
+* the [Sense HAT](https://www.raspberrypi.org/documentation/hardware/sense-hat/) library to display the time. (Requires [Raspberry Pi Foundation Sense HAT](https://www.raspberrypi.org/products/sense-hat/) hardware.)
 
 
 ##Usage
